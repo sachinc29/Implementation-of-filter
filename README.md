@@ -41,7 +41,7 @@ plt.imshow(image2)
 plt.title("Original Image")
 plt.axis("off")
 ```
-![image](https://github.com/user-attachments/assets/5bc20b76-4aa3-4da7-bf8f-9e520683482a)
+![image](https://github.com/user-attachments/assets/eb9ce6a9-c246-42f5-b854-bfc7146e4e14)
 
 ### 1. Smoothing Filters
 
@@ -56,7 +56,7 @@ plt.title("Averaging Filter Image")
 plt.axis("off")
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/281b37d5-4b3d-48c0-8e0b-d5232c5c8cbd)
+![image](https://github.com/user-attachments/assets/783dd248-b8d5-462e-b84b-cb8c908ad133)
 
 ii) Using Weighted Averaging Filter
 ```Python
@@ -71,7 +71,7 @@ plt.title("Weighted Average Filter Image")
 plt.axis("off")
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/81f34bb1-13e2-498b-8bd3-3d76b0c09a20)
+![image](https://github.com/user-attachments/assets/d57b3164-a5b1-4a05-ae5e-b19a928940e6)
 
 iii) Using Gaussian Filter
 ```Python
@@ -83,7 +83,7 @@ plt.title("Gaussian Blur")
 plt.axis("off")
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/fc4a8915-606e-4c8f-a3c7-4970a39b7d28)
+![image](https://github.com/user-attachments/assets/8bb9a9bc-6449-4616-aaf9-667bf5f1aa93)
 
 iv)Using Median Filter
 ```Python
@@ -96,7 +96,7 @@ plt.axis("off")
 plt.show()
 
 ```
-![image](https://github.com/user-attachments/assets/8e0e7e9f-4362-4999-b81c-62b664ac8f73)
+![image](https://github.com/user-attachments/assets/645a8df9-e0cf-41d5-b889-c7345ac525b7)
 
 ### 2. Sharpening Filters
 i) Using Laplacian Linear Kernal
@@ -109,7 +109,7 @@ plt.title("Sharpened Image (Laplacian Kernel)")
 plt.axis("off")
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/3e81e407-e1e4-488b-a2cb-3b638295114f)
+![image](https://github.com/user-attachments/assets/e7052f24-f515-439f-99a3-c1f58925904f)
 
 ii) Using Laplacian Operator
 ```Python
@@ -122,7 +122,7 @@ plt.axis("off")
 plt.show()
 
 ```
-![image](https://github.com/user-attachments/assets/90d7faf7-b473-4864-8467-28c0c5af5222)
+![image](https://github.com/user-attachments/assets/0cd3e59e-f80a-4de0-b1d4-3e8c0b55e111)
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
